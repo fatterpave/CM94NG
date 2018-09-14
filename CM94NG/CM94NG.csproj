@@ -35,6 +35,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.11.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
@@ -69,6 +72,22 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\Club.cs" />
+    <Compile Include="Models\ClubSeason.cs" />
+    <Compile Include="Models\ColorConverter.cs" />
+    <Compile Include="Models\CupStage.cs" />
+    <Compile Include="Models\Division.cs" />
+    <Compile Include="Models\Injury.cs" />
+    <Compile Include="Models\Manager.cs" />
+    <Compile Include="Models\ManagerHistory.cs" />
+    <Compile Include="Models\ManagerPersonality.cs" />
+    <Compile Include="Models\Player.cs" />
+    <Compile Include="Models\PlayerAttributes.cs" />
+    <Compile Include="Models\PlayerContract.cs" />
+    <Compile Include="Models\PlayerHistory.cs" />
+    <Compile Include="Models\PlayerInjury.cs" />
+    <Compile Include="Models\PlayerPersonality.cs" />
+    <Compile Include="Models\PlayerPosition.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -86,6 +105,7 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
