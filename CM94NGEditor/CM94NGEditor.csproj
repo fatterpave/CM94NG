@@ -98,7 +98,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CM94NG\CM94NG.csproj">
-      <Project>{7e2623a3-271c-4bf5-a869-848af3aa54ce}</Project>
+      <Project>{bbef0e1c-1ef7-4e47-ae0a-5289dad911db}</Project>
       <Name>CM94NG</Name>
     </ProjectReference>
   </ItemGroup>
