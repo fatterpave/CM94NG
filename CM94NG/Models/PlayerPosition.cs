@@ -8,13 +8,13 @@ namespace CM94NG.Models
 {
     public class PlayerPosition
     {
-        public bool Goalkeeper { get; set; }
-        public bool Defender { get; set; }
-        public bool Midfield { get; set; }
-        public bool Forward { get; set; }
-        public bool Right { get; set; }
-        public bool Left { get; set; }
-        public bool Center { get; set; }
-
+        public bool G { get; set; }
+        public bool D { get; set; }
+        public bool M { get; set; }
+        public bool A { get; set; }
+        public bool R { get; set; }
+        public bool L { get; set; }
+        public bool C { get; set; }
+        public string Descriptor { get; set; }
     }
 }

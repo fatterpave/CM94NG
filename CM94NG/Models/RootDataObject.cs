@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace CM94NG.Models
 {
-    public class Division
+    public class RootDataObject
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public List<Club> Clubs { get; set; }
+        public List<Division> Divisions { get; set; }
     }
 }

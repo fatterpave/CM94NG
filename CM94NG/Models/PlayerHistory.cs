@@ -8,11 +8,10 @@ namespace CM94NG.Models
 {
     public class PlayerHistory
     {
+        public int Year { get; set; }
         public int ClubId { get; set; }
-        public DateTime StartDate { get; set; }
-        public DateTime EndDate { get; set; }
-        public decimal Average { get; set; }
+        public int Apps { get; set; }
         public int Goals { get; set; }
-        public int Assists { get; set; }
+        public double Avg { get; set; }
     }
 }
