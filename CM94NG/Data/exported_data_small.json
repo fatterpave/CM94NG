@@ -1,0 +1,3554 @@
+{
+    "Divisions": [
+        {
+            "Id": 0,
+            "Name": "Premier League",
+            "Clubs": [
+                {
+                    "Id": 0,
+                    "Name": "Aston Villa",
+                    "NickName": null,
+                    "StadiumName": null,
+                    "StadiumCapacity": 0,
+                    "PrimaryColorHome": null,
+                    "SecondaryColorHome": null,
+                    "PrimaryColorAway": null,
+                    "SecondaryColorAway": null,
+                    "Manager": null,
+                    "City": null,
+                    "Funds": 0,
+                    "Players": [
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 86,
+                                    "ClubId": 7,
+                                    "Apps": 1,
+                                    "Goals": 0,
+                                    "Avg": 5.0
+                                },
+                                {
+                                    "Year": 87,
+                                    "ClubId": 7,
+                                    "Apps": 8,
+                                    "Goals": 0,
+                                    "Avg": 5.75
+                                },
+                                {
+                                    "Year": 88,
+                                    "ClubId": 7,
+                                    "Apps": 17,
+                                    "Goals": 8,
+                                    "Avg": 5.9411764705882355
+                                },
+                                {
+                                    "Year": 89,
+                                    "ClubId": 7,
+                                    "Apps": 34,
+                                    "Goals": 10,
+                                    "Avg": 6.2941176470588234
+                                },
+                                {
+                                    "Year": 90,
+                                    "ClubId": 3,
+                                    "Apps": 38,
+                                    "Goals": 10,
+                                    "Avg": 5.9473684210526319
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 0,
+                                    "Apps": 14,
+                                    "Goals": 1,
+                                    "Avg": 6.1428571428571432
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 0,
+                                    "Apps": 28,
+                                    "Goals": 11,
+                                    "Avg": 5.8214285714285712
+                                }
+                            ],
+                            "Id": 1,
+                            "FirstName": "Dalian",
+                            "SurName": "Atkinson",
+                            "Age": 25,
+                            "Passing": 12,
+                            "Tackling": 10,
+                            "Pace": 17,
+                            "Heading": 11,
+                            "Flair": 14,
+                            "Creativity": 10,
+                            "Stamina": 13,
+                            "Influence": 9,
+                            "Agility": 14,
+                            "Strength": 7,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 165,
+                            "CurrentSkill": 160,
+                            "PotentialSkill": 140,
+                            "GoalScoring": 15,
+                            "Position": {
+                                "hex": "48",
+                                "secondaryHex": "C8",
+                                "G": false,
+                                "D": false,
+                                "M": false,
+                                "A": true,
+                                "R": false,
+                                "L": false,
+                                "C": true,
+                                "descriptor": "AC"
+                            },
+                            "Club": "Aston Villa"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 85,
+                                    "ClubId": 9,
+                                    "Apps": 0,
+                                    "Goals": 0,
+                                    "Avg": 0.0
+                                },
+                                {
+                                    "Year": 86,
+                                    "ClubId": 9,
+                                    "Apps": 1,
+                                    "Goals": 0,
+                                    "Avg": 6.0
+                                },
+                                {
+                                    "Year": 86,
+                                    "ClubId": 68,
+                                    "Apps": 12,
+                                    "Goals": 0,
+                                    "Avg": 4.75
+                                },
+                                {
+                                    "Year": 87,
+                                    "ClubId": 9,
+                                    "Apps": 2,
+                                    "Goals": 0,
+                                    "Avg": 5.5
+                                },
+                                {
+                                    "Year": 88,
+                                    "ClubId": 25,
+                                    "Apps": 18,
+                                    "Goals": 0,
+                                    "Avg": 5.6111111111111107
+                                },
+                                {
+                                    "Year": 89,
+                                    "ClubId": 25,
+                                    "Apps": 44,
+                                    "Goals": 0,
+                                    "Avg": 5.3181818181818183
+                                },
+                                {
+                                    "Year": 90,
+                                    "ClubId": 25,
+                                    "Apps": 46,
+                                    "Goals": 2,
+                                    "Avg": 5.5434782608695654
+                                },
+                                {
+                                    "Year": 91,
+                                    "ClubId": 25,
+                                    "Apps": 29,
+                                    "Goals": 2,
+                                    "Avg": 5.8965517241379306
+                                },
+                                {
+                                    "Year": 91,
+                                    "ClubId": 25,
+                                    "Apps": 46,
+                                    "Goals": 3,
+                                    "Avg": 0.34782608695652173
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 25,
+                                    "Apps": 29,
+                                    "Goals": 2,
+                                    "Avg": 5.8275862068965516
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 0,
+                                    "Apps": 13,
+                                    "Goals": 0,
+                                    "Avg": 5.6923076923076925
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 0,
+                                    "Apps": 42,
+                                    "Goals": 1,
+                                    "Avg": 5.7857142857142856
+                                }
+                            ],
+                            "Id": 2,
+                            "FirstName": "Earl",
+                            "SurName": "Barrett",
+                            "Age": 26,
+                            "Passing": 9,
+                            "Tackling": 16,
+                            "Pace": 14,
+                            "Heading": 14,
+                            "Flair": 4,
+                            "Creativity": 5,
+                            "Stamina": 15,
+                            "Influence": 11,
+                            "Agility": 10,
+                            "Strength": 6,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 146,
+                            "CurrentSkill": 143,
+                            "PotentialSkill": 120,
+                            "GoalScoring": 2,
+                            "Position": {
+                                "hex": "52",
+                                "secondaryHex": "D2",
+                                "G": false,
+                                "D": true,
+                                "M": false,
+                                "A": false,
+                                "R": true,
+                                "L": false,
+                                "C": true,
+                                "descriptor": "DRC"
+                            },
+                            "Club": "Aston Villa"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 90,
+                                    "ClubId": 1,
+                                    "Apps": 1,
+                                    "Goals": 0,
+                                    "Avg": 4.0
+                                },
+                                {
+                                    "Year": 91,
+                                    "ClubId": 1,
+                                    "Apps": 2,
+                                    "Goals": 0,
+                                    "Avg": 6.0
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 0,
+                                    "Apps": 1,
+                                    "Goals": 0,
+                                    "Avg": 7.0
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 0,
+                                    "Apps": 17,
+                                    "Goals": 0,
+                                    "Avg": 7.8235294117647056
+                                }
+                            ],
+                            "Id": 3,
+                            "FirstName": "Mark",
+                            "SurName": "Bosnich",
+                            "Age": 21,
+                            "Passing": 0,
+                            "Tackling": 0,
+                            "Pace": 0,
+                            "Heading": 0,
+                            "Flair": 0,
+                            "Creativity": 0,
+                            "Stamina": 13,
+                            "Influence": 6,
+                            "Agility": 8,
+                            "Strength": 5,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 159,
+                            "CurrentSkill": 150,
+                            "PotentialSkill": 186,
+                            "GoalScoring": 0,
+                            "Position": {
+                                "hex": "81",
+                                "secondaryHex": "01",
+                                "G": true,
+                                "D": false,
+                                "M": false,
+                                "A": false,
+                                "R": false,
+                                "L": false,
+                                "C": false,
+                                "descriptor": "G"
+                            },
+                            "Club": "Aston Villa"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 91,
+                                    "ClubId": 36,
+                                    "Apps": 2,
+                                    "Goals": 0,
+                                    "Avg": 4.0
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 0,
+                                    "Apps": 8,
+                                    "Goals": 0,
+                                    "Avg": 6.875
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 0,
+                                    "Apps": 4,
+                                    "Goals": 0,
+                                    "Avg": 6.25
+                                }
+                            ],
+                            "Id": 4,
+                            "FirstName": "Ugo",
+                            "SurName": "Ehiogu",
+                            "Age": 22,
+                            "Passing": 11,
+                            "Tackling": 19,
+                            "Pace": 15,
+                            "Heading": 13,
+                            "Flair": 6,
+                            "Creativity": 8,
+                            "Stamina": 14,
+                            "Influence": 8,
+                            "Agility": 14,
+                            "Strength": 7,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 146,
+                            "CurrentSkill": 140,
+                            "PotentialSkill": 184,
+                            "GoalScoring": 5,
+                            "Position": {
+                                "hex": "56",
+                                "secondaryHex": "D6",
+                                "G": false,
+                                "D": true,
+                                "M": true,
+                                "A": false,
+                                "R": true,
+                                "L": false,
+                                "C": true,
+                                "descriptor": "DMRC"
+                            },
+                            "Club": "Aston Villa"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 93,
+                                    "ClubId": 0,
+                                    "Apps": 2,
+                                    "Goals": 0,
+                                    "Avg": 7.5
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 67,
+                                    "Apps": 5,
+                                    "Goals": 1,
+                                    "Avg": 6.8
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 0,
+                                    "Apps": 2,
+                                    "Goals": 0,
+                                    "Avg": 6.0
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 67,
+                                    "Apps": 5,
+                                    "Goals": 1,
+                                    "Avg": 5.6
+                                }
+                            ],
+                            "Id": 5,
+                            "FirstName": "David",
+                            "SurName": "Farrell",
+                            "Age": 23,
+                            "Passing": 8,
+                            "Tackling": 5,
+                            "Pace": 6,
+                            "Heading": 15,
+                            "Flair": 8,
+                            "Creativity": 10,
+                            "Stamina": 20,
+                            "Influence": 20,
+                            "Agility": 9,
+                            "Strength": 9,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 127,
+                            "CurrentSkill": 120,
+                            "PotentialSkill": 141,
+                            "GoalScoring": 5,
+                            "Position": {
+                                "hex": "48",
+                                "secondaryHex": "C8",
+                                "G": false,
+                                "D": false,
+                                "M": false,
+                                "A": true,
+                                "R": false,
+                                "L": false,
+                                "C": true,
+                                "descriptor": "AC"
+                            },
+                            "Club": "Aston Villa"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 80,
+                                    "ClubId": 17,
+                                    "Apps": 0,
+                                    "Goals": 0,
+                                    "Avg": 0.0
+                                },
+                                {
+                                    "Year": 81,
+                                    "ClubId": 17,
+                                    "Apps": 0,
+                                    "Goals": 0,
+                                    "Avg": 0.0
+                                },
+                                {
+                                    "Year": 82,
+                                    "ClubId": 17,
+                                    "Apps": 1,
+                                    "Goals": 0,
+                                    "Avg": 7.0
+                                },
+                                {
+                                    "Year": 83,
+                                    "ClubId": 62,
+                                    "Apps": 42,
+                                    "Goals": 5,
+                                    "Avg": 5.6190476190476186
+                                },
+                                {
+                                    "Year": 84,
+                                    "ClubId": 62,
+                                    "Apps": 40,
+                                    "Goals": 3,
+                                    "Avg": 6.375
+                                },
+                                {
+                                    "Year": 85,
+                                    "ClubId": 62,
+                                    "Apps": 42,
+                                    "Goals": 8,
+                                    "Avg": 0.42857142857142855
+                                },
+                                {
+                                    "Year": 86,
+                                    "ClubId": 62,
+                                    "Apps": 5,
+                                    "Goals": 0,
+                                    "Avg": 7.6
+                                },
+                                {
+                                    "Year": 86,
+                                    "ClubId": 54,
+                                    "Apps": 35,
+                                    "Goals": 4,
+                                    "Avg": 6.5428571428571427
+                                },
+                                {
+                                    "Year": 87,
+                                    "ClubId": 54,
+                                    "Apps": 37,
+                                    "Goals": 5,
+                                    "Avg": 6.1891891891891895
+                                },
+                                {
+                                    "Year": 88,
+                                    "ClubId": 54,
+                                    "Apps": 11,
+                                    "Goals": 1,
+                                    "Avg": 7.0
+                                },
+                                {
+                                    "Year": 88,
+                                    "ClubId": 14,
+                                    "Apps": 28,
+                                    "Goals": 5,
+                                    "Avg": 6.1785714285714288
+                                },
+                                {
+                                    "Year": 89,
+                                    "ClubId": 14,
+                                    "Apps": 38,
+                                    "Goals": 7,
+                                    "Avg": 6.4736842105263159
+                                },
+                                {
+                                    "Year": 90,
+                                    "ClubId": 14,
+                                    "Apps": 19,
+                                    "Goals": 1,
+                                    "Avg": 6.4736842105263159
+                                },
+                                {
+                                    "Year": 91,
+                                    "ClubId": 14,
+                                    "Apps": 32,
+                                    "Goals": 7,
+                                    "Avg": 6.6875
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 14,
+                                    "Apps": 36,
+                                    "Goals": 8,
+                                    "Avg": 6.8611111111111107
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 0,
+                                    "Apps": 39,
+                                    "Goals": 3,
+                                    "Avg": 0.5641025641025641
+                                }
+                            ],
+                            "Id": 6,
+                            "FirstName": "Ray",
+                            "SurName": "Houghton",
+                            "Age": 32,
+                            "Passing": 16,
+                            "Tackling": 14,
+                            "Pace": 10,
+                            "Heading": 3,
+                            "Flair": 15,
+                            "Creativity": 16,
+                            "Stamina": 14,
+                            "Influence": 18,
+                            "Agility": 9,
+                            "Strength": 7,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 160,
+                            "CurrentSkill": 160,
+                            "PotentialSkill": 160,
+                            "GoalScoring": 10,
+                            "Position": {
+                                "hex": "54",
+                                "secondaryHex": "D4",
+                                "G": false,
+                                "D": false,
+                                "M": true,
+                                "A": false,
+                                "R": true,
+                                "L": false,
+                                "C": true,
+                                "descriptor": "MRC"
+                            },
+                            "Club": "Aston Villa"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 82,
+                                    "ClubId": 1,
+                                    "Apps": 0,
+                                    "Goals": 0,
+                                    "Avg": 0.0
+                                },
+                                {
+                                    "Year": 83,
+                                    "ClubId": 1,
+                                    "Apps": 14,
+                                    "Goals": 3,
+                                    "Avg": 5.2142857142857144
+                                },
+                                {
+                                    "Year": 84,
+                                    "ClubId": 1,
+                                    "Apps": 9,
+                                    "Goals": 1,
+                                    "Avg": 5.8888888888888893
+                                },
+                                {
+                                    "Year": 85,
+                                    "ClubId": 1,
+                                    "Apps": 23,
+                                    "Goals": 0,
+                                    "Avg": 6.3478260869565215
+                                },
+                                {
+                                    "Year": 86,
+                                    "ClubId": 1,
+                                    "Apps": 40,
+                                    "Goals": 3,
+                                    "Avg": 0.275
+                                },
+                                {
+                                    "Year": 87,
+                                    "ClubId": 1,
+                                    "Apps": 35,
+                                    "Goals": 2,
+                                    "Avg": 5.5428571428571427
+                                },
+                                {
+                                    "Year": 88,
+                                    "ClubId": 1,
+                                    "Apps": 22,
+                                    "Goals": 2,
+                                    "Avg": 6.2272727272727275
+                                },
+                                {
+                                    "Year": 89,
+                                    "ClubId": 1,
+                                    "Apps": 20,
+                                    "Goals": 1,
+                                    "Avg": 7.9
+                                },
+                                {
+                                    "Year": 90,
+                                    "ClubId": 0,
+                                    "Apps": 35,
+                                    "Goals": 1,
+                                    "Avg": 6.4285714285714288
+                                },
+                                {
+                                    "Year": 91,
+                                    "ClubId": 0,
+                                    "Apps": 35,
+                                    "Goals": 0,
+                                    "Avg": 6.4285714285714288
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 0,
+                                    "Apps": 41,
+                                    "Goals": 1,
+                                    "Avg": 5.9024390243902438
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 0,
+                                    "Apps": 42,
+                                    "Goals": 4,
+                                    "Avg": 0.5714285714285714
+                                }
+                            ],
+                            "Id": 7,
+                            "FirstName": "Paul",
+                            "SurName": "McGrath",
+                            "Age": 34,
+                            "Passing": 8,
+                            "Tackling": 15,
+                            "Pace": 10,
+                            "Heading": 17,
+                            "Flair": 7,
+                            "Creativity": 7,
+                            "Stamina": 15,
+                            "Influence": 16,
+                            "Agility": 15,
+                            "Strength": 8,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 175,
+                            "CurrentSkill": 175,
+                            "PotentialSkill": 150,
+                            "GoalScoring": 5,
+                            "Position": {
+                                "hex": "42",
+                                "secondaryHex": "C2",
+                                "G": false,
+                                "D": true,
+                                "M": false,
+                                "A": false,
+                                "R": false,
+                                "L": false,
+                                "C": true,
+                                "descriptor": "DC"
+                            },
+                            "Club": "Aston Villa"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 83,
+                                    "ClubId": 40,
+                                    "Apps": 1,
+                                    "Goals": 0,
+                                    "Avg": 6.0
+                                },
+                                {
+                                    "Year": 84,
+                                    "ClubId": 40,
+                                    "Apps": 13,
+                                    "Goals": 2,
+                                    "Avg": 6.615384615384615
+                                },
+                                {
+                                    "Year": 85,
+                                    "ClubId": 40,
+                                    "Apps": 20,
+                                    "Goals": 1,
+                                    "Avg": 7.3
+                                },
+                                {
+                                    "Year": 86,
+                                    "ClubId": 40,
+                                    "Apps": 8,
+                                    "Goals": 0,
+                                    "Avg": 6.125
+                                },
+                                {
+                                    "Year": 86,
+                                    "ClubId": 57,
+                                    "Apps": 12,
+                                    "Goals": 0,
+                                    "Avg": 5.75
+                                },
+                                {
+                                    "Year": 87,
+                                    "ClubId": 57,
+                                    "Apps": 38,
+                                    "Goals": 0,
+                                    "Avg": 6.3684210526315788
+                                },
+                                {
+                                    "Year": 87,
+                                    "ClubId": 57,
+                                    "Apps": 38,
+                                    "Goals": 0,
+                                    "Avg": 5.7105263157894735
+                                },
+                                {
+                                    "Year": 88,
+                                    "ClubId": 57,
+                                    "Apps": 34,
+                                    "Goals": 8,
+                                    "Avg": 6.0882352941176467
+                                },
+                                {
+                                    "Year": 88,
+                                    "ClubId": 21,
+                                    "Apps": 2,
+                                    "Goals": 0,
+                                    "Avg": 5.5
+                                },
+                                {
+                                    "Year": 89,
+                                    "ClubId": 21,
+                                    "Apps": 22,
+                                    "Goals": 7,
+                                    "Avg": 6.4090909090909092
+                                },
+                                {
+                                    "Year": 90,
+                                    "ClubId": 21,
+                                    "Apps": 37,
+                                    "Goals": 6,
+                                    "Avg": 6.5135135135135132
+                                },
+                                {
+                                    "Year": 91,
+                                    "ClubId": 21,
+                                    "Apps": 36,
+                                    "Goals": 3,
+                                    "Avg": 6.0
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 21,
+                                    "Apps": 6,
+                                    "Goals": 1,
+                                    "Avg": 5.666666666666667
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 0,
+                                    "Apps": 25,
+                                    "Goals": 1,
+                                    "Avg": 6.76
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 0,
+                                    "Apps": 37,
+                                    "Goals": 9,
+                                    "Avg": 6.54054054054054
+                                }
+                            ],
+                            "Id": 8,
+                            "FirstName": "Garry",
+                            "SurName": "Parker",
+                            "Age": 28,
+                            "Passing": 17,
+                            "Tackling": 13,
+                            "Pace": 12,
+                            "Heading": 5,
+                            "Flair": 14,
+                            "Creativity": 17,
+                            "Stamina": 13,
+                            "Influence": 15,
+                            "Agility": 8,
+                            "Strength": 7,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 163,
+                            "CurrentSkill": 160,
+                            "PotentialSkill": 135,
+                            "GoalScoring": 10,
+                            "Position": {
+                                "hex": "54",
+                                "secondaryHex": "D4",
+                                "G": false,
+                                "D": false,
+                                "M": true,
+                                "A": false,
+                                "R": true,
+                                "L": false,
+                                "C": true,
+                                "descriptor": "MRC"
+                            },
+                            "Club": "Aston Villa"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 81,
+                                    "ClubId": 16,
+                                    "Apps": 0,
+                                    "Goals": 0,
+                                    "Avg": 0.0
+                                },
+                                {
+                                    "Year": 82,
+                                    "ClubId": 16,
+                                    "Apps": 18,
+                                    "Goals": 2,
+                                    "Avg": 5.5
+                                },
+                                {
+                                    "Year": 83,
+                                    "ClubId": 16,
+                                    "Apps": 29,
+                                    "Goals": 3,
+                                    "Avg": 6.4482758620689653
+                                },
+                                {
+                                    "Year": 84,
+                                    "ClubId": 16,
+                                    "Apps": 28,
+                                    "Goals": 4,
+                                    "Avg": 5.3928571428571432
+                                },
+                                {
+                                    "Year": 85,
+                                    "ClubId": 16,
+                                    "Apps": 15,
+                                    "Goals": 4,
+                                    "Avg": 6.2666666666666666
+                                },
+                                {
+                                    "Year": 86,
+                                    "ClubId": 16,
+                                    "Apps": 18,
+                                    "Goals": 3,
+                                    "Avg": 6.2222222222222223
+                                },
+                                {
+                                    "Year": 87,
+                                    "ClubId": 16,
+                                    "Apps": 1,
+                                    "Goals": 0,
+                                    "Avg": 6.0
+                                },
+                                {
+                                    "Year": 87,
+                                    "ClubId": 53,
+                                    "Apps": 39,
+                                    "Goals": 2,
+                                    "Avg": 6.1538461538461542
+                                },
+                                {
+                                    "Year": 88,
+                                    "ClubId": 10,
+                                    "Apps": 29,
+                                    "Goals": 4,
+                                    "Avg": 6.2068965517241379
+                                },
+                                {
+                                    "Year": 89,
+                                    "ClubId": 10,
+                                    "Apps": 34,
+                                    "Goals": 1,
+                                    "Avg": 5.4117647058823533
+                                },
+                                {
+                                    "Year": 90,
+                                    "ClubId": 10,
+                                    "Apps": 33,
+                                    "Goals": 0,
+                                    "Avg": 5.0
+                                },
+                                {
+                                    "Year": 91,
+                                    "ClubId": 0,
+                                    "Apps": 42,
+                                    "Goals": 6,
+                                    "Avg": 0.42857142857142855
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 0,
+                                    "Apps": 42,
+                                    "Goals": 6,
+                                    "Avg": 0.21428571428571427
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 0,
+                                    "Apps": 42,
+                                    "Goals": 2,
+                                    "Avg": 0.21428571428571427
+                                }
+                            ],
+                            "Id": 9,
+                            "FirstName": "Kevin",
+                            "SurName": "Richardson",
+                            "Age": 32,
+                            "Passing": 13,
+                            "Tackling": 17,
+                            "Pace": 12,
+                            "Heading": 11,
+                            "Flair": 6,
+                            "Creativity": 9,
+                            "Stamina": 13,
+                            "Influence": 15,
+                            "Agility": 14,
+                            "Strength": 7,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 164,
+                            "CurrentSkill": 160,
+                            "PotentialSkill": 135,
+                            "GoalScoring": 8,
+                            "Position": {
+                                "hex": "64",
+                                "secondaryHex": "E4",
+                                "G": false,
+                                "D": false,
+                                "M": true,
+                                "A": false,
+                                "R": false,
+                                "L": true,
+                                "C": true,
+                                "descriptor": "MLC"
+                            },
+                            "Club": "Aston Villa"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 83,
+                                    "ClubId": 58,
+                                    "Apps": 0,
+                                    "Goals": 0,
+                                    "Avg": 0.0
+                                },
+                                {
+                                    "Year": 84,
+                                    "ClubId": 58,
+                                    "Apps": 19,
+                                    "Goals": 3,
+                                    "Avg": 5.3684210526315788
+                                },
+                                {
+                                    "Year": 85,
+                                    "ClubId": 58,
+                                    "Apps": 30,
+                                    "Goals": 9,
+                                    "Avg": 6.6
+                                },
+                                {
+                                    "Year": 85,
+                                    "ClubId": 49,
+                                    "Apps": 4,
+                                    "Goals": 0,
+                                    "Avg": 6.0
+                                },
+                                {
+                                    "Year": 86,
+                                    "ClubId": 71,
+                                    "Apps": 42,
+                                    "Goals": 15,
+                                    "Avg": 0.23809523809523808
+                                },
+                                {
+                                    "Year": 87,
+                                    "ClubId": 71,
+                                    "Apps": 30,
+                                    "Goals": 6,
+                                    "Avg": 6.1
+                                },
+                                {
+                                    "Year": 87,
+                                    "ClubId": 54,
+                                    "Apps": 12,
+                                    "Goals": 6,
+                                    "Avg": 6.416666666666667
+                                },
+                                {
+                                    "Year": 88,
+                                    "ClubId": 54,
+                                    "Apps": 37,
+                                    "Goals": 12,
+                                    "Avg": 0.24324324324324326
+                                },
+                                {
+                                    "Year": 89,
+                                    "ClubId": 54,
+                                    "Apps": 10,
+                                    "Goals": 4,
+                                    "Avg": 5.4
+                                },
+                                {
+                                    "Year": 89,
+                                    "ClubId": 30,
+                                    "Apps": 30,
+                                    "Goals": 14,
+                                    "Avg": 5.5666666666666664
+                                },
+                                {
+                                    "Year": 90,
+                                    "ClubId": 30,
+                                    "Apps": 38,
+                                    "Goals": 11,
+                                    "Avg": 0.13157894736842105
+                                },
+                                {
+                                    "Year": 91,
+                                    "ClubId": 30,
+                                    "Apps": 38,
+                                    "Goals": 17,
+                                    "Avg": 6.5
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 14,
+                                    "Apps": 36,
+                                    "Goals": 10,
+                                    "Avg": 6.333333333333333
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 14,
+                                    "Apps": 6,
+                                    "Goals": 1,
+                                    "Avg": 7.166666666666667
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 0,
+                                    "Apps": 35,
+                                    "Goals": 13,
+                                    "Avg": 7.1142857142857139
+                                }
+                            ],
+                            "Id": 10,
+                            "FirstName": "Dean",
+                            "SurName": "Saunders",
+                            "Age": 29,
+                            "Passing": 4,
+                            "Tackling": 7,
+                            "Pace": 15,
+                            "Heading": 10,
+                            "Flair": 14,
+                            "Creativity": 3,
+                            "Stamina": 14,
+                            "Influence": 11,
+                            "Agility": 7,
+                            "Strength": 7,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 166,
+                            "CurrentSkill": 165,
+                            "PotentialSkill": 150,
+                            "GoalScoring": 16,
+                            "Position": {
+                                "hex": "48",
+                                "secondaryHex": "C8",
+                                "G": false,
+                                "D": false,
+                                "M": false,
+                                "A": true,
+                                "R": false,
+                                "L": false,
+                                "C": true,
+                                "descriptor": "AC"
+                            },
+                            "Club": "Aston Villa"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 90,
+                                    "ClubId": 0,
+                                    "Apps": 0,
+                                    "Goals": 0,
+                                    "Avg": 0.0
+                                },
+                                {
+                                    "Year": 91,
+                                    "ClubId": 0,
+                                    "Apps": 0,
+                                    "Goals": 0,
+                                    "Avg": 0.0
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 0,
+                                    "Apps": 8,
+                                    "Goals": 0,
+                                    "Avg": 6.125
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 0,
+                                    "Apps": 14,
+                                    "Goals": 0,
+                                    "Avg": 6.5
+                                }
+                            ],
+                            "Id": 11,
+                            "FirstName": "Bryan",
+                            "SurName": "Small",
+                            "Age": 22,
+                            "Passing": 10,
+                            "Tackling": 15,
+                            "Pace": 15,
+                            "Heading": 15,
+                            "Flair": 4,
+                            "Creativity": 3,
+                            "Stamina": 15,
+                            "Influence": 8,
+                            "Agility": 14,
+                            "Strength": 5,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 153,
+                            "CurrentSkill": 145,
+                            "PotentialSkill": 192,
+                            "GoalScoring": 4,
+                            "Position": {
+                                "hex": "42",
+                                "secondaryHex": "C2",
+                                "G": false,
+                                "D": true,
+                                "M": false,
+                                "A": false,
+                                "R": false,
+                                "L": false,
+                                "C": true,
+                                "descriptor": "DC"
+                            },
+                            "Club": "Aston Villa"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 81,
+                                    "ClubId": 0,
+                                    "Apps": 0,
+                                    "Goals": 0,
+                                    "Avg": 0.0
+                                },
+                                {
+                                    "Year": 82,
+                                    "ClubId": 0,
+                                    "Apps": 0,
+                                    "Goals": 0,
+                                    "Avg": 0.0
+                                },
+                                {
+                                    "Year": 83,
+                                    "ClubId": 0,
+                                    "Apps": 22,
+                                    "Goals": 0,
+                                    "Avg": 5.5
+                                },
+                                {
+                                    "Year": 84,
+                                    "ClubId": 0,
+                                    "Apps": 28,
+                                    "Goals": 0,
+                                    "Avg": 6.3928571428571432
+                                },
+                                {
+                                    "Year": 85,
+                                    "ClubId": 0,
+                                    "Apps": 19,
+                                    "Goals": 0,
+                                    "Avg": 5.4736842105263159
+                                },
+                                {
+                                    "Year": 86,
+                                    "ClubId": 0,
+                                    "Apps": 31,
+                                    "Goals": 0,
+                                    "Avg": 5.67741935483871
+                                },
+                                {
+                                    "Year": 87,
+                                    "ClubId": 0,
+                                    "Apps": 32,
+                                    "Goals": 0,
+                                    "Avg": 6.40625
+                                },
+                                {
+                                    "Year": 88,
+                                    "ClubId": 0,
+                                    "Apps": 44,
+                                    "Goals": 0,
+                                    "Avg": 0.18181818181818182
+                                },
+                                {
+                                    "Year": 89,
+                                    "ClubId": 0,
+                                    "Apps": 34,
+                                    "Goals": 0,
+                                    "Avg": 6.382352941176471
+                                },
+                                {
+                                    "Year": 90,
+                                    "ClubId": 0,
+                                    "Apps": 38,
+                                    "Goals": 0,
+                                    "Avg": 0.13157894736842105
+                                },
+                                {
+                                    "Year": 91,
+                                    "ClubId": 0,
+                                    "Apps": 34,
+                                    "Goals": 0,
+                                    "Avg": 6.1764705882352944
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 0,
+                                    "Apps": 23,
+                                    "Goals": 0,
+                                    "Avg": 5.4782608695652177
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 0,
+                                    "Apps": 25,
+                                    "Goals": 0,
+                                    "Avg": 7.04
+                                }
+                            ],
+                            "Id": 12,
+                            "FirstName": "Nigel",
+                            "SurName": "Spink",
+                            "Age": 35,
+                            "Passing": 0,
+                            "Tackling": 0,
+                            "Pace": 0,
+                            "Heading": 0,
+                            "Flair": 0,
+                            "Creativity": 0,
+                            "Stamina": 17,
+                            "Influence": 13,
+                            "Agility": 5,
+                            "Strength": 7,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 133,
+                            "CurrentSkill": 130,
+                            "PotentialSkill": 130,
+                            "GoalScoring": 0,
+                            "Position": {
+                                "hex": "81",
+                                "secondaryHex": "01",
+                                "G": true,
+                                "D": false,
+                                "M": false,
+                                "A": false,
+                                "R": false,
+                                "L": false,
+                                "C": false,
+                                "descriptor": "G"
+                            },
+                            "Club": "Aston Villa"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 87,
+                                    "ClubId": 14,
+                                    "Apps": 0,
+                                    "Goals": 0,
+                                    "Avg": 0.0
+                                },
+                                {
+                                    "Year": 88,
+                                    "ClubId": 14,
+                                    "Apps": 0,
+                                    "Goals": 0,
+                                    "Avg": 0.0
+                                },
+                                {
+                                    "Year": 88,
+                                    "ClubId": 55,
+                                    "Apps": 8,
+                                    "Goals": 0,
+                                    "Avg": 5.25
+                                },
+                                {
+                                    "Year": 89,
+                                    "ClubId": 14,
+                                    "Apps": 21,
+                                    "Goals": 0,
+                                    "Avg": 6.5714285714285712
+                                },
+                                {
+                                    "Year": 90,
+                                    "ClubId": 14,
+                                    "Apps": 20,
+                                    "Goals": 0,
+                                    "Avg": 6.4
+                                },
+                                {
+                                    "Year": 91,
+                                    "ClubId": 14,
+                                    "Apps": 24,
+                                    "Goals": 0,
+                                    "Avg": 7.166666666666667
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 0,
+                                    "Apps": 37,
+                                    "Goals": 4,
+                                    "Avg": 0.27027027027027029
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 0,
+                                    "Apps": 42,
+                                    "Goals": 2,
+                                    "Avg": 0.83333333333333337
+                                }
+                            ],
+                            "Id": 13,
+                            "FirstName": "Steve",
+                            "SurName": "Staunton",
+                            "Age": 24,
+                            "Passing": 12,
+                            "Tackling": 18,
+                            "Pace": 16,
+                            "Heading": 14,
+                            "Flair": 5,
+                            "Creativity": 10,
+                            "Stamina": 16,
+                            "Influence": 11,
+                            "Agility": 13,
+                            "Strength": 8,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 164,
+                            "CurrentSkill": 162,
+                            "PotentialSkill": 170,
+                            "GoalScoring": 8,
+                            "Position": {
+                                "hex": "66",
+                                "secondaryHex": "E6",
+                                "G": false,
+                                "D": true,
+                                "M": true,
+                                "A": false,
+                                "R": false,
+                                "L": true,
+                                "C": true,
+                                "descriptor": "DMLC"
+                            },
+                            "Club": "Aston Villa"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 89,
+                                    "ClubId": 59,
+                                    "Apps": 20,
+                                    "Goals": 0,
+                                    "Avg": 4.55
+                                },
+                                {
+                                    "Year": 90,
+                                    "ClubId": 59,
+                                    "Apps": 34,
+                                    "Goals": 0,
+                                    "Avg": 6.2058823529411766
+                                },
+                                {
+                                    "Year": 91,
+                                    "ClubId": 59,
+                                    "Apps": 46,
+                                    "Goals": 4,
+                                    "Avg": 0.80434782608695654
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 0,
+                                    "Apps": 42,
+                                    "Goals": 0,
+                                    "Avg": 0.21428571428571427
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 0,
+                                    "Apps": 39,
+                                    "Goals": 1,
+                                    "Avg": 0.23076923076923078
+                                }
+                            ],
+                            "Id": 14,
+                            "FirstName": "Shaun",
+                            "SurName": "Teale",
+                            "Age": 29,
+                            "Passing": 7,
+                            "Tackling": 17,
+                            "Pace": 14,
+                            "Heading": 16,
+                            "Flair": 5,
+                            "Creativity": 3,
+                            "Stamina": 13,
+                            "Influence": 10,
+                            "Agility": 15,
+                            "Strength": 8,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 163,
+                            "CurrentSkill": 160,
+                            "PotentialSkill": 160,
+                            "GoalScoring": 2,
+                            "Position": {
+                                "hex": "42",
+                                "secondaryHex": "C2",
+                                "G": false,
+                                "D": true,
+                                "M": false,
+                                "A": false,
+                                "R": false,
+                                "L": false,
+                                "C": true,
+                                "descriptor": "DC"
+                            },
+                            "Club": "Aston Villa"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 85,
+                                    "ClubId": 12,
+                                    "Apps": 5,
+                                    "Goals": 0,
+                                    "Avg": 3.2
+                                },
+                                {
+                                    "Year": 86,
+                                    "ClubId": 12,
+                                    "Apps": 27,
+                                    "Goals": 1,
+                                    "Avg": 5.7037037037037033
+                                },
+                                {
+                                    "Year": 87,
+                                    "ClubId": 12,
+                                    "Apps": 14,
+                                    "Goals": 1,
+                                    "Avg": 5.9285714285714288
+                                },
+                                {
+                                    "Year": 88,
+                                    "ClubId": 12,
+                                    "Apps": 37,
+                                    "Goals": 3,
+                                    "Avg": 6.243243243243243
+                                },
+                                {
+                                    "Year": 89,
+                                    "ClubId": 2,
+                                    "Apps": 36,
+                                    "Goals": 5,
+                                    "Avg": 7.0555555555555554
+                                },
+                                {
+                                    "Year": 90,
+                                    "ClubId": 2,
+                                    "Apps": 35,
+                                    "Goals": 3,
+                                    "Avg": 6.628571428571429
+                                },
+                                {
+                                    "Year": 91,
+                                    "ClubId": 11,
+                                    "Apps": 34,
+                                    "Goals": 2,
+                                    "Avg": 6.6764705882352944
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 11,
+                                    "Apps": 35,
+                                    "Goals": 6,
+                                    "Avg": 0.057142857142857141
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 11,
+                                    "Apps": 41,
+                                    "Goals": 4,
+                                    "Avg": 0.41463414634146339
+                                }
+                            ],
+                            "Id": 15,
+                            "FirstName": "Andy",
+                            "SurName": "Townsend",
+                            "Age": 30,
+                            "Passing": 16,
+                            "Tackling": 17,
+                            "Pace": 13,
+                            "Heading": 15,
+                            "Flair": 15,
+                            "Creativity": 11,
+                            "Stamina": 20,
+                            "Influence": 15,
+                            "Agility": 16,
+                            "Strength": 8,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 167,
+                            "CurrentSkill": 160,
+                            "PotentialSkill": 165,
+                            "GoalScoring": 14,
+                            "Position": {
+                                "hex": "44",
+                                "secondaryHex": "C4",
+                                "G": false,
+                                "D": false,
+                                "M": true,
+                                "A": false,
+                                "R": false,
+                                "L": false,
+                                "C": true,
+                                "descriptor": "MC"
+                            },
+                            "Club": "Aston Villa"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 90,
+                                    "ClubId": 26,
+                                    "Apps": 42,
+                                    "Goals": 23,
+                                    "Avg": 6.0714285714285712
+                                },
+                                {
+                                    "Year": 91,
+                                    "ClubId": 26,
+                                    "Apps": 37,
+                                    "Goals": 12,
+                                    "Avg": 6.5675675675675675
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 26,
+                                    "Apps": 35,
+                                    "Goals": 11,
+                                    "Avg": 6.2285714285714286
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 26,
+                                    "Apps": 46,
+                                    "Goals": 42,
+                                    "Avg": 1.3043478260869565
+                                }
+                            ],
+                            "Id": 16,
+                            "FirstName": "Guy",
+                            "SurName": "Whittingham",
+                            "Age": 29,
+                            "Passing": 4,
+                            "Tackling": 14,
+                            "Pace": 16,
+                            "Heading": 18,
+                            "Flair": 3,
+                            "Creativity": 6,
+                            "Stamina": 18,
+                            "Influence": 16,
+                            "Agility": 14,
+                            "Strength": 7,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 161,
+                            "CurrentSkill": 160,
+                            "PotentialSkill": 155,
+                            "GoalScoring": 19,
+                            "Position": {
+                                "hex": "48",
+                                "secondaryHex": "C8",
+                                "G": false,
+                                "D": false,
+                                "M": false,
+                                "A": true,
+                                "R": false,
+                                "L": false,
+                                "C": true,
+                                "descriptor": "AC"
+                            },
+                            "Club": "Aston Villa"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 90,
+                                    "ClubId": 0,
+                                    "Apps": 2,
+                                    "Goals": 0,
+                                    "Avg": 5.0
+                                },
+                                {
+                                    "Year": 91,
+                                    "ClubId": 0,
+                                    "Apps": 18,
+                                    "Goals": 2,
+                                    "Avg": 5.166666666666667
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 0,
+                                    "Apps": 32,
+                                    "Goals": 11,
+                                    "Avg": 6.6875
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 0,
+                                    "Apps": 27,
+                                    "Goals": 6,
+                                    "Avg": 7.8518518518518521
+                                }
+                            ],
+                            "Id": 17,
+                            "FirstName": "Dwight",
+                            "SurName": "Yorke",
+                            "Age": 23,
+                            "Passing": 8,
+                            "Tackling": 7,
+                            "Pace": 17,
+                            "Heading": 7,
+                            "Flair": 17,
+                            "Creativity": 16,
+                            "Stamina": 14,
+                            "Influence": 9,
+                            "Agility": 6,
+                            "Strength": 7,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 158,
+                            "CurrentSkill": 155,
+                            "PotentialSkill": 177,
+                            "GoalScoring": 13,
+                            "Position": {
+                                "hex": "2C",
+                                "secondaryHex": "AC",
+                                "G": false,
+                                "D": false,
+                                "M": true,
+                                "A": true,
+                                "R": false,
+                                "L": true,
+                                "C": false,
+                                "descriptor": "MAL"
+                            },
+                            "Club": "Aston Villa"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 84,
+                                    "ClubId": 2,
+                                    "Apps": 0,
+                                    "Goals": 0,
+                                    "Avg": 0.0
+                                },
+                                {
+                                    "Year": 84,
+                                    "ClubId": 18,
+                                    "Apps": 1,
+                                    "Goals": 0,
+                                    "Avg": 7.0
+                                },
+                                {
+                                    "Year": 84,
+                                    "ClubId": 80,
+                                    "Apps": 26,
+                                    "Goals": 6,
+                                    "Avg": 5.2692307692307692
+                                },
+                                {
+                                    "Year": 85,
+                                    "ClubId": 80,
+                                    "Apps": 10,
+                                    "Goals": 4,
+                                    "Avg": 6.5
+                                },
+                                {
+                                    "Year": 86,
+                                    "ClubId": 80,
+                                    "Apps": 25,
+                                    "Goals": 8,
+                                    "Avg": 6.28
+                                },
+                                {
+                                    "Year": 86,
+                                    "ClubId": 15,
+                                    "Apps": 9,
+                                    "Goals": 4,
+                                    "Avg": 7.2222222222222223
+                                },
+                                {
+                                    "Year": 87,
+                                    "ClubId": 15,
+                                    "Apps": 37,
+                                    "Goals": 11,
+                                    "Avg": 6.5945945945945947
+                                },
+                                {
+                                    "Year": 88,
+                                    "ClubId": 15,
+                                    "Apps": 38,
+                                    "Goals": 14,
+                                    "Avg": 0.44736842105263158
+                                },
+                                {
+                                    "Year": 89,
+                                    "ClubId": 15,
+                                    "Apps": 30,
+                                    "Goals": 12,
+                                    "Avg": 7.4333333333333336
+                                },
+                                {
+                                    "Year": 90,
+                                    "ClubId": 15,
+                                    "Apps": 24,
+                                    "Goals": 11,
+                                    "Avg": 7.875
+                                },
+                                {
+                                    "Year": 91,
+                                    "ClubId": 15,
+                                    "Apps": 35,
+                                    "Goals": 20,
+                                    "Avg": 0.8571428571428571
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 15,
+                                    "Apps": 38,
+                                    "Goals": 18,
+                                    "Avg": 0.18421052631578946
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 15,
+                                    "Apps": 29,
+                                    "Goals": 6,
+                                    "Avg": 7.9655172413793105
+                                }
+                            ],
+                            "Id": 18,
+                            "FirstName": "John",
+                            "SurName": "Fashanu",
+                            "Age": 30,
+                            "Passing": 10,
+                            "Tackling": 12,
+                            "Pace": 14,
+                            "Heading": 19,
+                            "Flair": 6,
+                            "Creativity": 9,
+                            "Stamina": 15,
+                            "Influence": 16,
+                            "Agility": 16,
+                            "Strength": 9,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 175,
+                            "CurrentSkill": 160,
+                            "PotentialSkill": 175,
+                            "GoalScoring": 13,
+                            "Position": {
+                                "hex": "48",
+                                "secondaryHex": "C8",
+                                "G": false,
+                                "D": false,
+                                "M": false,
+                                "A": true,
+                                "R": false,
+                                "L": false,
+                                "C": true,
+                                "descriptor": "AC"
+                            },
+                            "Club": "Aston Villa"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 91,
+                                    "ClubId": 146,
+                                    "Apps": 15,
+                                    "Goals": 5,
+                                    "Avg": 5.6
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 146,
+                                    "Apps": 23,
+                                    "Goals": 13,
+                                    "Avg": 6.3478260869565215
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 146,
+                                    "Apps": 30,
+                                    "Goals": 14,
+                                    "Avg": 7.7
+                                }
+                            ],
+                            "Id": 19,
+                            "FirstName": "Nii",
+                            "SurName": "Lamptey",
+                            "Age": 19,
+                            "Passing": 20,
+                            "Tackling": 10,
+                            "Pace": 20,
+                            "Heading": 7,
+                            "Flair": 18,
+                            "Creativity": 15,
+                            "Stamina": 17,
+                            "Influence": 10,
+                            "Agility": 3,
+                            "Strength": 10,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 187,
+                            "CurrentSkill": 168,
+                            "PotentialSkill": 182,
+                            "GoalScoring": 10,
+                            "Position": {
+                                "hex": "7C",
+                                "secondaryHex": "FC",
+                                "G": false,
+                                "D": false,
+                                "M": true,
+                                "A": false,
+                                "R": true,
+                                "L": true,
+                                "C": true,
+                                "descriptor": "MARLC"
+                            },
+                            "Club": "Aston Villa"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 85,
+                                    "ClubId": 64,
+                                    "Apps": 16,
+                                    "Goals": 0,
+                                    "Avg": 5.375
+                                },
+                                {
+                                    "Year": 86,
+                                    "ClubId": 64,
+                                    "Apps": 11,
+                                    "Goals": 0,
+                                    "Avg": 4.3636363636363633
+                                },
+                                {
+                                    "Year": 87,
+                                    "ClubId": 74,
+                                    "Apps": 24,
+                                    "Goals": 3,
+                                    "Avg": 5.208333333333333
+                                },
+                                {
+                                    "Year": 87,
+                                    "ClubId": 29,
+                                    "Apps": 21,
+                                    "Goals": 0,
+                                    "Avg": 5.7142857142857144
+                                },
+                                {
+                                    "Year": 88,
+                                    "ClubId": 29,
+                                    "Apps": 44,
+                                    "Goals": 1,
+                                    "Avg": 0.61363636363636365
+                                },
+                                {
+                                    "Year": 89,
+                                    "ClubId": 29,
+                                    "Apps": 37,
+                                    "Goals": 2,
+                                    "Avg": 5.9459459459459456
+                                },
+                                {
+                                    "Year": 90,
+                                    "ClubId": 29,
+                                    "Apps": 14,
+                                    "Goals": 1,
+                                    "Avg": 6.9285714285714288
+                                },
+                                {
+                                    "Year": 90,
+                                    "ClubId": 3,
+                                    "Apps": 25,
+                                    "Goals": 0,
+                                    "Avg": 6.68
+                                },
+                                {
+                                    "Year": 91,
+                                    "ClubId": 29,
+                                    "Apps": 43,
+                                    "Goals": 0,
+                                    "Avg": 0.627906976744186
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 3,
+                                    "Apps": 39,
+                                    "Goals": 1,
+                                    "Avg": 0.358974358974359
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 3,
+                                    "Apps": 12,
+                                    "Goals": 1,
+                                    "Avg": 5.666666666666667
+                                }
+                            ],
+                            "Id": 20,
+                            "FirstName": "Phil",
+                            "SurName": "King",
+                            "Age": 26,
+                            "Passing": 2,
+                            "Tackling": 20,
+                            "Pace": 15,
+                            "Heading": 8,
+                            "Flair": 10,
+                            "Creativity": 7,
+                            "Stamina": 16,
+                            "Influence": 11,
+                            "Agility": 9,
+                            "Strength": 5,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 152,
+                            "CurrentSkill": 145,
+                            "PotentialSkill": 150,
+                            "GoalScoring": 1,
+                            "Position": {
+                                "hex": "22",
+                                "secondaryHex": "A2",
+                                "G": false,
+                                "D": true,
+                                "M": false,
+                                "A": false,
+                                "R": false,
+                                "L": true,
+                                "C": false,
+                                "descriptor": "DL"
+                            },
+                            "Club": "Aston Villa"
+                        }
+                    ],
+                    "PreviousSeasons": null,
+                    "CurrentSeason": null
+                },
+                {
+                    "Id": 1,
+                    "Name": "Manchester United",
+                    "NickName": null,
+                    "StadiumName": null,
+                    "StadiumCapacity": 0,
+                    "PrimaryColorHome": null,
+                    "SecondaryColorHome": null,
+                    "PrimaryColorAway": null,
+                    "SecondaryColorAway": null,
+                    "Manager": null,
+                    "City": null,
+                    "Funds": 0,
+                    "Players": [
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 85,
+                                    "ClubId": 20,
+                                    "Apps": 0,
+                                    "Goals": 0,
+                                    "Avg": 0.0
+                                },
+                                {
+                                    "Year": 86,
+                                    "ClubId": 20,
+                                    "Apps": 28,
+                                    "Goals": 0,
+                                    "Avg": 6.1428571428571432
+                                },
+                                {
+                                    "Year": 87,
+                                    "ClubId": 20,
+                                    "Apps": 44,
+                                    "Goals": 1,
+                                    "Avg": 0.13636363636363635
+                                },
+                                {
+                                    "Year": 88,
+                                    "ClubId": 20,
+                                    "Apps": 44,
+                                    "Goals": 3,
+                                    "Avg": 1.1590909090909092
+                                },
+                                {
+                                    "Year": 89,
+                                    "ClubId": 20,
+                                    "Apps": 37,
+                                    "Goals": 1,
+                                    "Avg": 6.8378378378378377
+                                },
+                                {
+                                    "Year": 90,
+                                    "ClubId": 20,
+                                    "Apps": 3,
+                                    "Goals": 0,
+                                    "Avg": 7.333333333333333
+                                },
+                                {
+                                    "Year": 90,
+                                    "ClubId": 1,
+                                    "Apps": 35,
+                                    "Goals": 3,
+                                    "Avg": 6.1714285714285717
+                                },
+                                {
+                                    "Year": 91,
+                                    "ClubId": 1,
+                                    "Apps": 36,
+                                    "Goals": 0,
+                                    "Avg": 0.58333333333333337
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 1,
+                                    "Apps": 40,
+                                    "Goals": 1,
+                                    "Avg": 0.85
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 1,
+                                    "Apps": 42,
+                                    "Goals": 1,
+                                    "Avg": 0.76190476190476186
+                                }
+                            ],
+                            "Id": 21,
+                            "FirstName": "Gary",
+                            "SurName": "Pallister",
+                            "Age": 28,
+                            "Passing": 8,
+                            "Tackling": 18,
+                            "Pace": 10,
+                            "Heading": 18,
+                            "Flair": 2,
+                            "Creativity": 5,
+                            "Stamina": 17,
+                            "Influence": 16,
+                            "Agility": 15,
+                            "Strength": 8,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 161,
+                            "CurrentSkill": 160,
+                            "PotentialSkill": 160,
+                            "GoalScoring": 2,
+                            "Position": {
+                                "hex": "42",
+                                "secondaryHex": "C2",
+                                "G": false,
+                                "D": true,
+                                "M": false,
+                                "A": false,
+                                "R": false,
+                                "L": false,
+                                "C": true,
+                                "descriptor": "DC"
+                            },
+                            "Club": "Manchester United"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 79,
+                                    "ClubId": 90,
+                                    "Apps": 0,
+                                    "Goals": 0,
+                                    "Avg": 0.0
+                                },
+                                {
+                                    "Year": 80,
+                                    "ClubId": 90,
+                                    "Apps": 40,
+                                    "Goals": 6,
+                                    "Avg": 5.825
+                                },
+                                {
+                                    "Year": 81,
+                                    "ClubId": 90,
+                                    "Apps": 41,
+                                    "Goals": 4,
+                                    "Avg": 5.6341463414634143
+                                },
+                                {
+                                    "Year": 82,
+                                    "ClubId": 90,
+                                    "Apps": 45,
+                                    "Goals": 6,
+                                    "Avg": 0.4
+                                },
+                                {
+                                    "Year": 83,
+                                    "ClubId": 90,
+                                    "Apps": 39,
+                                    "Goals": 7,
+                                    "Avg": 0.66666666666666663
+                                },
+                                {
+                                    "Year": 84,
+                                    "ClubId": 90,
+                                    "Apps": 40,
+                                    "Goals": 6,
+                                    "Avg": 0.625
+                                },
+                                {
+                                    "Year": 85,
+                                    "ClubId": 2,
+                                    "Apps": 39,
+                                    "Goals": 1,
+                                    "Avg": 0.20512820512820512
+                                },
+                                {
+                                    "Year": 86,
+                                    "ClubId": 2,
+                                    "Apps": 42,
+                                    "Goals": 8,
+                                    "Avg": 0.52380952380952384
+                                },
+                                {
+                                    "Year": 87,
+                                    "ClubId": 2,
+                                    "Apps": 41,
+                                    "Goals": 3,
+                                    "Avg": 0.34146341463414637
+                                },
+                                {
+                                    "Year": 88,
+                                    "ClubId": 2,
+                                    "Apps": 19,
+                                    "Goals": 2,
+                                    "Avg": 7.7368421052631575
+                                },
+                                {
+                                    "Year": 88,
+                                    "ClubId": 1,
+                                    "Apps": 21,
+                                    "Goals": 2,
+                                    "Avg": 6.7619047619047619
+                                },
+                                {
+                                    "Year": 89,
+                                    "ClubId": 1,
+                                    "Apps": 38,
+                                    "Goals": 2,
+                                    "Avg": 6.5
+                                },
+                                {
+                                    "Year": 90,
+                                    "ClubId": 1,
+                                    "Apps": 34,
+                                    "Goals": 3,
+                                    "Avg": 7.3529411764705879
+                                },
+                                {
+                                    "Year": 91,
+                                    "ClubId": 1,
+                                    "Apps": 31,
+                                    "Goals": 13,
+                                    "Avg": 7.032258064516129
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 1,
+                                    "Apps": 37,
+                                    "Goals": 5,
+                                    "Avg": 0.10810810810810811
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 1,
+                                    "Apps": 42,
+                                    "Goals": 5,
+                                    "Avg": 0.33333333333333331
+                                }
+                            ],
+                            "Id": 22,
+                            "FirstName": "Steve",
+                            "SurName": "Bruce",
+                            "Age": 33,
+                            "Passing": 7,
+                            "Tackling": 15,
+                            "Pace": 10,
+                            "Heading": 18,
+                            "Flair": 1,
+                            "Creativity": 4,
+                            "Stamina": 12,
+                            "Influence": 13,
+                            "Agility": 15,
+                            "Strength": 8,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 160,
+                            "CurrentSkill": 160,
+                            "PotentialSkill": 155,
+                            "GoalScoring": 9,
+                            "Position": {
+                                "hex": "42",
+                                "secondaryHex": "C2",
+                                "G": false,
+                                "D": true,
+                                "M": false,
+                                "A": false,
+                                "R": false,
+                                "L": false,
+                                "C": true,
+                                "descriptor": "DC"
+                            },
+                            "Club": "Manchester United"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 81,
+                                    "ClubId": 62,
+                                    "Apps": 1,
+                                    "Goals": 0,
+                                    "Avg": 6.0
+                                },
+                                {
+                                    "Year": 82,
+                                    "ClubId": 62,
+                                    "Apps": 5,
+                                    "Goals": 0,
+                                    "Avg": 5.6
+                                },
+                                {
+                                    "Year": 83,
+                                    "ClubId": 62,
+                                    "Apps": 16,
+                                    "Goals": 0,
+                                    "Avg": 6.25
+                                },
+                                {
+                                    "Year": 84,
+                                    "ClubId": 62,
+                                    "Apps": 34,
+                                    "Goals": 0,
+                                    "Avg": 6.382352941176471
+                                },
+                                {
+                                    "Year": 85,
+                                    "ClubId": 62,
+                                    "Apps": 36,
+                                    "Goals": 0,
+                                    "Avg": 6.3611111111111107
+                                },
+                                {
+                                    "Year": 86,
+                                    "ClubId": 62,
+                                    "Apps": 30,
+                                    "Goals": 0,
+                                    "Avg": 6.4333333333333336
+                                },
+                                {
+                                    "Year": 87,
+                                    "ClubId": 62,
+                                    "Apps": 31,
+                                    "Goals": 2,
+                                    "Avg": 6.870967741935484
+                                },
+                                {
+                                    "Year": 88,
+                                    "ClubId": 6,
+                                    "Apps": 40,
+                                    "Goals": 0,
+                                    "Avg": 1.075
+                                },
+                                {
+                                    "Year": 89,
+                                    "ClubId": 6,
+                                    "Apps": 36,
+                                    "Goals": 0,
+                                    "Avg": 6.0277777777777777
+                                },
+                                {
+                                    "Year": 90,
+                                    "ClubId": 6,
+                                    "Apps": 32,
+                                    "Goals": 0,
+                                    "Avg": 7.46875
+                                },
+                                {
+                                    "Year": 91,
+                                    "ClubId": 6,
+                                    "Apps": 17,
+                                    "Goals": 1,
+                                    "Avg": 7.2352941176470589
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 1,
+                                    "Apps": 26,
+                                    "Goals": 0,
+                                    "Avg": 6.9230769230769234
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 1,
+                                    "Apps": 31,
+                                    "Goals": 1,
+                                    "Avg": 7.709677419354839
+                                }
+                            ],
+                            "Id": 23,
+                            "FirstName": "Paul",
+                            "SurName": "Parker",
+                            "Age": 29,
+                            "Passing": 8,
+                            "Tackling": 17,
+                            "Pace": 17,
+                            "Heading": 13,
+                            "Flair": 7,
+                            "Creativity": 8,
+                            "Stamina": 20,
+                            "Influence": 9,
+                            "Agility": 6,
+                            "Strength": 8,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 159,
+                            "CurrentSkill": 150,
+                            "PotentialSkill": 160,
+                            "GoalScoring": 5,
+                            "Position": {
+                                "hex": "52",
+                                "secondaryHex": "D2",
+                                "G": false,
+                                "D": true,
+                                "M": false,
+                                "A": false,
+                                "R": true,
+                                "L": false,
+                                "C": true,
+                                "descriptor": "DRC"
+                            },
+                            "Club": "Manchester United"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 92,
+                                    "ClubId": 13,
+                                    "Apps": 15,
+                                    "Goals": 3,
+                                    "Avg": 4.8666666666666663
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 13,
+                                    "Apps": 13,
+                                    "Goals": 6,
+                                    "Avg": 6.8461538461538458
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 1,
+                                    "Apps": 22,
+                                    "Goals": 9,
+                                    "Avg": 8.1818181818181817
+                                }
+                            ],
+                            "Id": 24,
+                            "FirstName": "Eric",
+                            "SurName": "Cantona",
+                            "Age": 27,
+                            "Passing": 18,
+                            "Tackling": 12,
+                            "Pace": 16,
+                            "Heading": 10,
+                            "Flair": 15,
+                            "Creativity": 13,
+                            "Stamina": 13,
+                            "Influence": 15,
+                            "Agility": 10,
+                            "Strength": 8,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 196,
+                            "CurrentSkill": 190,
+                            "PotentialSkill": 190,
+                            "GoalScoring": 12,
+                            "Position": {
+                                "hex": "48",
+                                "secondaryHex": "C8",
+                                "G": false,
+                                "D": false,
+                                "M": false,
+                                "A": true,
+                                "R": false,
+                                "L": false,
+                                "C": true,
+                                "descriptor": "AC"
+                            },
+                            "Club": "Manchester United"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 92,
+                                    "ClubId": 1,
+                                    "Apps": 40,
+                                    "Goals": 0,
+                                    "Avg": 5.475
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 1,
+                                    "Apps": 42,
+                                    "Goals": 0,
+                                    "Avg": 1.1428571428571428
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 1,
+                                    "Apps": 42,
+                                    "Goals": 0,
+                                    "Avg": 1.2619047619047619
+                                }
+                            ],
+                            "Id": 25,
+                            "FirstName": "Peter",
+                            "SurName": "Schmeichel",
+                            "Age": 26,
+                            "Passing": 0,
+                            "Tackling": 0,
+                            "Pace": 0,
+                            "Heading": 0,
+                            "Flair": 0,
+                            "Creativity": 0,
+                            "Stamina": 16,
+                            "Influence": 13,
+                            "Agility": 10,
+                            "Strength": 8,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 186,
+                            "CurrentSkill": 180,
+                            "PotentialSkill": 184,
+                            "GoalScoring": 0,
+                            "Position": {
+                                "hex": "81",
+                                "secondaryHex": "01",
+                                "G": true,
+                                "D": false,
+                                "M": false,
+                                "A": false,
+                                "R": false,
+                                "L": false,
+                                "C": false,
+                                "descriptor": "G"
+                            },
+                            "Club": "Manchester United"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 88,
+                                    "ClubId": 74,
+                                    "Apps": 14,
+                                    "Goals": 3,
+                                    "Avg": 5.4285714285714288
+                                },
+                                {
+                                    "Year": 89,
+                                    "ClubId": 1,
+                                    "Apps": 22,
+                                    "Goals": 0,
+                                    "Avg": 6.8181818181818183
+                                },
+                                {
+                                    "Year": 90,
+                                    "ClubId": 1,
+                                    "Apps": 18,
+                                    "Goals": 1,
+                                    "Avg": 6.3888888888888893
+                                },
+                                {
+                                    "Year": 91,
+                                    "ClubId": 1,
+                                    "Apps": 23,
+                                    "Goals": 2,
+                                    "Avg": 8.4347826086956523
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 1,
+                                    "Apps": 14,
+                                    "Goals": 1,
+                                    "Avg": 7.6428571428571432
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 1,
+                                    "Apps": 27,
+                                    "Goals": 1,
+                                    "Avg": 7.666666666666667
+                                }
+                            ],
+                            "Id": 26,
+                            "FirstName": "Lee",
+                            "SurName": "Sharpe",
+                            "Age": 22,
+                            "Passing": 14,
+                            "Tackling": 8,
+                            "Pace": 17,
+                            "Heading": 6,
+                            "Flair": 18,
+                            "Creativity": 18,
+                            "Stamina": 12,
+                            "Influence": 11,
+                            "Agility": 6,
+                            "Strength": 6,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 180,
+                            "CurrentSkill": 170,
+                            "PotentialSkill": 190,
+                            "GoalScoring": 10,
+                            "Position": {
+                                "hex": "2C",
+                                "secondaryHex": "AC",
+                                "G": false,
+                                "D": false,
+                                "M": true,
+                                "A": true,
+                                "R": false,
+                                "L": true,
+                                "C": false,
+                                "descriptor": "MAL"
+                            },
+                            "Club": "Manchester United"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 91,
+                                    "ClubId": 1,
+                                    "Apps": 2,
+                                    "Goals": 1,
+                                    "Avg": 6.0
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 1,
+                                    "Apps": 38,
+                                    "Goals": 4,
+                                    "Avg": 6.2631578947368425
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 1,
+                                    "Apps": 41,
+                                    "Goals": 9,
+                                    "Avg": 1.3902439024390243
+                                }
+                            ],
+                            "Id": 27,
+                            "FirstName": "Ryan",
+                            "SurName": "Giggs",
+                            "Age": 20,
+                            "Passing": 15,
+                            "Tackling": 10,
+                            "Pace": 19,
+                            "Heading": 7,
+                            "Flair": 20,
+                            "Creativity": 20,
+                            "Stamina": 15,
+                            "Influence": 7,
+                            "Agility": 5,
+                            "Strength": 7,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 211,
+                            "CurrentSkill": 190,
+                            "PotentialSkill": 200,
+                            "GoalScoring": 12,
+                            "Position": {
+                                "hex": "3C",
+                                "secondaryHex": "BC",
+                                "G": false,
+                                "D": false,
+                                "M": true,
+                                "A": true,
+                                "R": true,
+                                "L": true,
+                                "C": false,
+                                "descriptor": "MARL"
+                            },
+                            "Club": "Manchester United"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 83,
+                                    "ClubId": 1,
+                                    "Apps": 0,
+                                    "Goals": 0,
+                                    "Avg": 0.0
+                                },
+                                {
+                                    "Year": 84,
+                                    "ClubId": 1,
+                                    "Apps": 11,
+                                    "Goals": 4,
+                                    "Avg": 6.1818181818181817
+                                },
+                                {
+                                    "Year": 85,
+                                    "ClubId": 1,
+                                    "Apps": 38,
+                                    "Goals": 16,
+                                    "Avg": 6.1842105263157894
+                                },
+                                {
+                                    "Year": 86,
+                                    "ClubId": 1,
+                                    "Apps": 40,
+                                    "Goals": 17,
+                                    "Avg": 0.975
+                                },
+                                {
+                                    "Year": 89,
+                                    "ClubId": 1,
+                                    "Apps": 38,
+                                    "Goals": 14,
+                                    "Avg": 5.9210526315789478
+                                },
+                                {
+                                    "Year": 90,
+                                    "ClubId": 1,
+                                    "Apps": 37,
+                                    "Goals": 13,
+                                    "Avg": 6.8918918918918921
+                                },
+                                {
+                                    "Year": 91,
+                                    "ClubId": 1,
+                                    "Apps": 31,
+                                    "Goals": 10,
+                                    "Avg": 7.387096774193548
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 1,
+                                    "Apps": 39,
+                                    "Goals": 11,
+                                    "Avg": 1.4102564102564104
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 1,
+                                    "Apps": 41,
+                                    "Goals": 15,
+                                    "Avg": 1.8048780487804879
+                                }
+                            ],
+                            "Id": 28,
+                            "FirstName": "Mark",
+                            "SurName": "Hughes",
+                            "Age": 30,
+                            "Passing": 13,
+                            "Tackling": 16,
+                            "Pace": 14,
+                            "Heading": 12,
+                            "Flair": 13,
+                            "Creativity": 7,
+                            "Stamina": 20,
+                            "Influence": 10,
+                            "Agility": 16,
+                            "Strength": 8,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 188,
+                            "CurrentSkill": 180,
+                            "PotentialSkill": 185,
+                            "GoalScoring": 15,
+                            "Position": {
+                                "hex": "48",
+                                "secondaryHex": "C8",
+                                "G": false,
+                                "D": false,
+                                "M": false,
+                                "A": true,
+                                "R": false,
+                                "L": false,
+                                "C": true,
+                                "descriptor": "AC"
+                            },
+                            "Club": "Manchester United"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 86,
+                                    "ClubId": 17,
+                                    "Apps": 0,
+                                    "Goals": 0,
+                                    "Avg": 0.0
+                                },
+                                {
+                                    "Year": 87,
+                                    "ClubId": 17,
+                                    "Apps": 10,
+                                    "Goals": 1,
+                                    "Avg": 6.3
+                                },
+                                {
+                                    "Year": 88,
+                                    "ClubId": 17,
+                                    "Apps": 28,
+                                    "Goals": 3,
+                                    "Avg": 6.0714285714285712
+                                },
+                                {
+                                    "Year": 89,
+                                    "ClubId": 17,
+                                    "Apps": 33,
+                                    "Goals": 3,
+                                    "Avg": 6.1818181818181817
+                                },
+                                {
+                                    "Year": 90,
+                                    "ClubId": 17,
+                                    "Apps": 1,
+                                    "Goals": 0,
+                                    "Avg": 7.0
+                                },
+                                {
+                                    "Year": 90,
+                                    "ClubId": 1,
+                                    "Apps": 26,
+                                    "Goals": 0,
+                                    "Avg": 7.384615384615385
+                                },
+                                {
+                                    "Year": 91,
+                                    "ClubId": 1,
+                                    "Apps": 31,
+                                    "Goals": 3,
+                                    "Avg": 6.774193548387097
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 1,
+                                    "Apps": 33,
+                                    "Goals": 3,
+                                    "Avg": 7.3939393939393936
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 1,
+                                    "Apps": 41,
+                                    "Goals": 6,
+                                    "Avg": 1.3902439024390243
+                                }
+                            ],
+                            "Id": 29,
+                            "FirstName": "Paul",
+                            "SurName": "Ince",
+                            "Age": 26,
+                            "Passing": 16,
+                            "Tackling": 17,
+                            "Pace": 15,
+                            "Heading": 12,
+                            "Flair": 14,
+                            "Creativity": 13,
+                            "Stamina": 16,
+                            "Influence": 14,
+                            "Agility": 20,
+                            "Strength": 7,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 184,
+                            "CurrentSkill": 175,
+                            "PotentialSkill": 185,
+                            "GoalScoring": 4,
+                            "Position": {
+                                "hex": "44",
+                                "secondaryHex": "C4",
+                                "G": false,
+                                "D": false,
+                                "M": true,
+                                "A": false,
+                                "R": false,
+                                "L": false,
+                                "C": true,
+                                "descriptor": "MC"
+                            },
+                            "Club": "Manchester United"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 85,
+                                    "ClubId": 1,
+                                    "Apps": 0,
+                                    "Goals": 0,
+                                    "Avg": 0.0
+                                },
+                                {
+                                    "Year": 86,
+                                    "ClubId": 1,
+                                    "Apps": 0,
+                                    "Goals": 0,
+                                    "Avg": 0.0
+                                },
+                                {
+                                    "Year": 87,
+                                    "ClubId": 1,
+                                    "Apps": 14,
+                                    "Goals": 0,
+                                    "Avg": 6.2142857142857144
+                                },
+                                {
+                                    "Year": 88,
+                                    "ClubId": 1,
+                                    "Apps": 16,
+                                    "Goals": 0,
+                                    "Avg": 6.25
+                                },
+                                {
+                                    "Year": 89,
+                                    "ClubId": 1,
+                                    "Apps": 0,
+                                    "Goals": 0,
+                                    "Avg": 0.0
+                                },
+                                {
+                                    "Year": 89,
+                                    "ClubId": 165,
+                                    "Apps": 3,
+                                    "Goals": 0,
+                                    "Avg": 6.333333333333333
+                                },
+                                {
+                                    "Year": 90,
+                                    "ClubId": 1,
+                                    "Apps": 0,
+                                    "Goals": 0,
+                                    "Avg": 0.0
+                                },
+                                {
+                                    "Year": 91,
+                                    "ClubId": 1,
+                                    "Apps": 5,
+                                    "Goals": 0,
+                                    "Avg": 6.8
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 1,
+                                    "Apps": 2,
+                                    "Goals": 0,
+                                    "Avg": 7.0
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 1,
+                                    "Apps": 0,
+                                    "Goals": 0,
+                                    "Avg": 0.0
+                                }
+                            ],
+                            "Id": 30,
+                            "FirstName": "Gary",
+                            "SurName": "Walsh",
+                            "Age": 25,
+                            "Passing": 0,
+                            "Tackling": 0,
+                            "Pace": 0,
+                            "Heading": 0,
+                            "Flair": 0,
+                            "Creativity": 0,
+                            "Stamina": 9,
+                            "Influence": 4,
+                            "Agility": 20,
+                            "Strength": 6,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 139,
+                            "CurrentSkill": 130,
+                            "PotentialSkill": 142,
+                            "GoalScoring": 0,
+                            "Position": {
+                                "hex": "81",
+                                "secondaryHex": "01",
+                                "G": true,
+                                "D": false,
+                                "M": false,
+                                "A": false,
+                                "R": false,
+                                "L": false,
+                                "C": false,
+                                "descriptor": "G"
+                            },
+                            "Club": "Manchester United"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 84,
+                                    "ClubId": 13,
+                                    "Apps": 12,
+                                    "Goals": 0,
+                                    "Avg": 3.9166666666666665
+                                },
+                                {
+                                    "Year": 85,
+                                    "ClubId": 13,
+                                    "Apps": 41,
+                                    "Goals": 1,
+                                    "Avg": 0.36585365853658536
+                                },
+                                {
+                                    "Year": 86,
+                                    "ClubId": 13,
+                                    "Apps": 19,
+                                    "Goals": 0,
+                                    "Avg": 6.1052631578947372
+                                },
+                                {
+                                    "Year": 87,
+                                    "ClubId": 25,
+                                    "Apps": 41,
+                                    "Goals": 1,
+                                    "Avg": 0.1951219512195122
+                                },
+                                {
+                                    "Year": 88,
+                                    "ClubId": 25,
+                                    "Apps": 43,
+                                    "Goals": 0,
+                                    "Avg": 1.2325581395348837
+                                },
+                                {
+                                    "Year": 89,
+                                    "ClubId": 25,
+                                    "Apps": 41,
+                                    "Goals": 2,
+                                    "Avg": 0.926829268292683
+                                },
+                                {
+                                    "Year": 90,
+                                    "ClubId": 25,
+                                    "Apps": 42,
+                                    "Goals": 1,
+                                    "Avg": 0.54761904761904767
+                                },
+                                {
+                                    "Year": 91,
+                                    "ClubId": 1,
+                                    "Apps": 34,
+                                    "Goals": 0,
+                                    "Avg": 7.2941176470588234
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 1,
+                                    "Apps": 38,
+                                    "Goals": 4,
+                                    "Avg": 0.65789473684210531
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 1,
+                                    "Apps": 40,
+                                    "Goals": 5,
+                                    "Avg": 1.025
+                                }
+                            ],
+                            "Id": 31,
+                            "FirstName": "Denis",
+                            "SurName": "Irwin",
+                            "Age": 28,
+                            "Passing": 11,
+                            "Tackling": 14,
+                            "Pace": 16,
+                            "Heading": 9,
+                            "Flair": 6,
+                            "Creativity": 8,
+                            "Stamina": 14,
+                            "Influence": 8,
+                            "Agility": 11,
+                            "Strength": 6,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 168,
+                            "CurrentSkill": 165,
+                            "PotentialSkill": 170,
+                            "GoalScoring": 2,
+                            "Position": {
+                                "hex": "22",
+                                "secondaryHex": "A2",
+                                "G": false,
+                                "D": true,
+                                "M": false,
+                                "A": false,
+                                "R": false,
+                                "L": true,
+                                "C": false,
+                                "descriptor": "DL"
+                            },
+                            "Club": "Manchester United"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 91,
+                                    "ClubId": 1,
+                                    "Apps": 1,
+                                    "Goals": 0,
+                                    "Avg": 5.0
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 1,
+                                    "Apps": 34,
+                                    "Goals": 5,
+                                    "Avg": 5.7058823529411766
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 1,
+                                    "Apps": 27,
+                                    "Goals": 3,
+                                    "Avg": 6.7777777777777777
+                                }
+                            ],
+                            "Id": 32,
+                            "FirstName": "Andrei",
+                            "SurName": "Kanchelskis",
+                            "Age": 24,
+                            "Passing": 12,
+                            "Tackling": 6,
+                            "Pace": 17,
+                            "Heading": 10,
+                            "Flair": 16,
+                            "Creativity": 15,
+                            "Stamina": 9,
+                            "Influence": 1,
+                            "Agility": 10,
+                            "Strength": 6,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 179,
+                            "CurrentSkill": 170,
+                            "PotentialSkill": 170,
+                            "GoalScoring": 9,
+                            "Position": {
+                                "hex": "1C",
+                                "secondaryHex": "9C",
+                                "G": false,
+                                "D": false,
+                                "M": true,
+                                "A": true,
+                                "R": true,
+                                "L": false,
+                                "C": false,
+                                "descriptor": "MAR"
+                            },
+                            "Club": "Manchester United"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 93,
+                                    "ClubId": 1,
+                                    "Apps": 1,
+                                    "Goals": 0,
+                                    "Avg": 5.0
+                                }
+                            ],
+                            "Id": 33,
+                            "FirstName": "Nicky",
+                            "SurName": "Butt",
+                            "Age": 17,
+                            "Passing": 13,
+                            "Tackling": 17,
+                            "Pace": 10,
+                            "Heading": 10,
+                            "Flair": 4,
+                            "Creativity": 18,
+                            "Stamina": 11,
+                            "Influence": 11,
+                            "Agility": 11,
+                            "Strength": 4,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 121,
+                            "CurrentSkill": 120,
+                            "PotentialSkill": 185,
+                            "GoalScoring": 15,
+                            "Position": {
+                                "hex": "44",
+                                "secondaryHex": "C4",
+                                "G": false,
+                                "D": false,
+                                "M": true,
+                                "A": false,
+                                "R": false,
+                                "L": false,
+                                "C": true,
+                                "descriptor": "MC"
+                            },
+                            "Club": "Manchester United"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 91,
+                                    "ClubId": 21,
+                                    "Apps": 35,
+                                    "Goals": 8,
+                                    "Avg": 4.4857142857142858
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 21,
+                                    "Apps": 39,
+                                    "Goals": 8,
+                                    "Avg": 5.5128205128205128
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 21,
+                                    "Apps": 40,
+                                    "Goals": 6,
+                                    "Avg": 1.375
+                                }
+                            ],
+                            "Id": 34,
+                            "FirstName": "Roy",
+                            "SurName": "Keane",
+                            "Age": 22,
+                            "Passing": 14,
+                            "Tackling": 18,
+                            "Pace": 15,
+                            "Heading": 16,
+                            "Flair": 10,
+                            "Creativity": 12,
+                            "Stamina": 19,
+                            "Influence": 18,
+                            "Agility": 17,
+                            "Strength": 7,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 196,
+                            "CurrentSkill": 175,
+                            "PotentialSkill": 190,
+                            "GoalScoring": 14,
+                            "Position": {
+                                "hex": "44",
+                                "secondaryHex": "C4",
+                                "G": false,
+                                "D": false,
+                                "M": true,
+                                "A": false,
+                                "R": false,
+                                "L": false,
+                                "C": true,
+                                "descriptor": "MC"
+                            },
+                            "Club": "Manchester United"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 89,
+                                    "ClubId": 5,
+                                    "Apps": 1,
+                                    "Goals": 0,
+                                    "Avg": 5.0
+                                },
+                                {
+                                    "Year": 90,
+                                    "ClubId": 5,
+                                    "Apps": 17,
+                                    "Goals": 0,
+                                    "Avg": 6.0
+                                },
+                                {
+                                    "Year": 91,
+                                    "ClubId": 5,
+                                    "Apps": 19,
+                                    "Goals": 1,
+                                    "Avg": 6.0526315789473681
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 5,
+                                    "Apps": 12,
+                                    "Goals": 0,
+                                    "Avg": 5.333333333333333
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 5,
+                                    "Apps": 34,
+                                    "Goals": 1,
+                                    "Avg": 6.3235294117647056
+                                }
+                            ],
+                            "Id": 35,
+                            "FirstName": "David",
+                            "SurName": "May",
+                            "Age": 23,
+                            "Passing": 4,
+                            "Tackling": 15,
+                            "Pace": 16,
+                            "Heading": 15,
+                            "Flair": 3,
+                            "Creativity": 4,
+                            "Stamina": 7,
+                            "Influence": 5,
+                            "Agility": 11,
+                            "Strength": 7,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 140,
+                            "CurrentSkill": 135,
+                            "PotentialSkill": 150,
+                            "GoalScoring": 2,
+                            "Position": {
+                                "hex": "52",
+                                "secondaryHex": "D2",
+                                "G": false,
+                                "D": true,
+                                "M": false,
+                                "A": false,
+                                "R": true,
+                                "L": false,
+                                "C": true,
+                                "descriptor": "DRC"
+                            },
+                            "Club": "Manchester United"
+                        },
+                        {
+                            "PlayerHistory": [],
+                            "Id": 36,
+                            "FirstName": "Craig",
+                            "SurName": "Lawton",
+                            "Age": 20,
+                            "Passing": 8,
+                            "Tackling": 14,
+                            "Pace": 13,
+                            "Heading": 6,
+                            "Flair": 4,
+                            "Creativity": 16,
+                            "Stamina": 13,
+                            "Influence": 13,
+                            "Agility": 13,
+                            "Strength": 8,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 118,
+                            "CurrentSkill": 115,
+                            "PotentialSkill": 195,
+                            "GoalScoring": 9,
+                            "Position": {
+                                "hex": "24",
+                                "secondaryHex": "A4",
+                                "G": false,
+                                "D": false,
+                                "M": true,
+                                "A": false,
+                                "R": false,
+                                "L": true,
+                                "C": false,
+                                "descriptor": "ML"
+                            },
+                            "Club": "Manchester United"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 82,
+                                    "ClubId": 165,
+                                    "Apps": 11,
+                                    "Goals": 4,
+                                    "Avg": 4.7272727272727275
+                                },
+                                {
+                                    "Year": 83,
+                                    "ClubId": 165,
+                                    "Apps": 28,
+                                    "Goals": 11,
+                                    "Avg": 5.8928571428571432
+                                },
+                                {
+                                    "Year": 84,
+                                    "ClubId": 165,
+                                    "Apps": 35,
+                                    "Goals": 23,
+                                    "Avg": 6.5142857142857142
+                                },
+                                {
+                                    "Year": 85,
+                                    "ClubId": 165,
+                                    "Apps": 32,
+                                    "Goals": 19,
+                                    "Avg": 6.625
+                                },
+                                {
+                                    "Year": 86,
+                                    "ClubId": 165,
+                                    "Apps": 34,
+                                    "Goals": 22,
+                                    "Avg": 6.3529411764705879
+                                },
+                                {
+                                    "Year": 87,
+                                    "ClubId": 165,
+                                    "Apps": 44,
+                                    "Goals": 35,
+                                    "Avg": 0.61363636363636365
+                                },
+                                {
+                                    "Year": 88,
+                                    "ClubId": 1,
+                                    "Apps": 40,
+                                    "Goals": 24,
+                                    "Avg": 0.25
+                                },
+                                {
+                                    "Year": 89,
+                                    "ClubId": 1,
+                                    "Apps": 38,
+                                    "Goals": 10,
+                                    "Avg": 6.0263157894736841
+                                },
+                                {
+                                    "Year": 90,
+                                    "ClubId": 1,
+                                    "Apps": 37,
+                                    "Goals": 5,
+                                    "Avg": 5.8378378378378377
+                                },
+                                {
+                                    "Year": 91,
+                                    "ClubId": 1,
+                                    "Apps": 36,
+                                    "Goals": 13,
+                                    "Avg": 6.6388888888888893
+                                },
+                                {
+                                    "Year": 92,
+                                    "ClubId": 1,
+                                    "Apps": 42,
+                                    "Goals": 18,
+                                    "Avg": 0.59523809523809523
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 1,
+                                    "Apps": 42,
+                                    "Goals": 9,
+                                    "Avg": 0.7142857142857143
+                                }
+                            ],
+                            "Id": 37,
+                            "FirstName": "Brian",
+                            "SurName": "McClair",
+                            "Age": 30,
+                            "Passing": 17,
+                            "Tackling": 13,
+                            "Pace": 13,
+                            "Heading": 12,
+                            "Flair": 11,
+                            "Creativity": 12,
+                            "Stamina": 18,
+                            "Influence": 6,
+                            "Agility": 9,
+                            "Strength": 6,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 156,
+                            "CurrentSkill": 155,
+                            "PotentialSkill": 155,
+                            "GoalScoring": 12,
+                            "Position": {
+                                "hex": "4C",
+                                "secondaryHex": "CC",
+                                "G": false,
+                                "D": false,
+                                "M": true,
+                                "A": true,
+                                "R": false,
+                                "L": false,
+                                "C": true,
+                                "descriptor": "MAC"
+                            },
+                            "Club": "Manchester United"
+                        },
+                        {
+                            "PlayerHistory": [
+                                {
+                                    "Year": 92,
+                                    "ClubId": 1,
+                                    "Apps": 0,
+                                    "Goals": 0,
+                                    "Avg": 0.0
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 1,
+                                    "Apps": 0,
+                                    "Goals": 0,
+                                    "Avg": 0.0
+                                },
+                                {
+                                    "Year": 93,
+                                    "ClubId": 81,
+                                    "Apps": 2,
+                                    "Goals": 0,
+                                    "Avg": 7.0
+                                }
+                            ],
+                            "Id": 38,
+                            "FirstName": "Colin",
+                            "SurName": "McKee",
+                            "Age": 19,
+                            "Passing": 12,
+                            "Tackling": 6,
+                            "Pace": 16,
+                            "Heading": 12,
+                            "Flair": 10,
+                            "Creativity": 6,
+                            "Stamina": 10,
+                            "Influence": 19,
+                            "Agility": 9,
+                            "Strength": 7,
+                            "Fitness": 70,
+                            "WeeksNA": 0,
+                            "Illness": 0,
+                            "Morale": 116,
+                            "CurrentSkill": 110,
+                            "PotentialSkill": 193,
+                            "GoalScoring": 19,
+                            "Position": {
+                                "hex": "48",
+                                "secondaryHex": "C8",
+                                "G": false,
+                                "D": false,
+                                "M": false,
+                                "A": true,
+                                "R": false,
+                                "L": false,
+                                "C": true,
+                                "descriptor": "AC"
+                            },
+                            "Club": "Manchester United"
+                        }
+                    ],
+                    "PreviousSeasons": null,
+                    "CurrentSeason": null
+                }
+            ]
+        }
+    ]
+}
