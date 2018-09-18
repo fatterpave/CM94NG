@@ -8,7 +8,7 @@ using CM94NG.Utils;
 
 namespace CM94NG.ViewModels
 {
-    public class ApplicationViewModel : ObservableObject
+    public class MainWindowViewModel : ObservableObject
     {
         #region Fields
 
@@ -19,7 +19,7 @@ namespace CM94NG.ViewModels
 
         #endregion
 
-        public ApplicationViewModel()
+        public MainWindowViewModel()
         {
             // Add available pages
             PageViewModels.Add(new MainViewModel());
