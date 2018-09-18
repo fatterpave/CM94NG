@@ -6,7 +6,29 @@
              xmlns:local="clr-namespace:CM94NG.Views"
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
-    <Grid>
-            
+
+    <Grid HorizontalAlignment="Left" Background="#414100" Height="450" VerticalAlignment="Top" Width="800" Grid.Row="4" Grid.Column="4">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Button x:Name="btnContinue" Foreground="#E3E361" Background="#0041A2" Content="CONTINUE&#xa;  SEASON" HorizontalAlignment="Stretch" Margin="5,5,5,5" VerticalAlignment="Stretch" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" FontSize="30" FontWeight="Bold">
+            <Button.BitmapEffect>
+                <DropShadowBitmapEffect Color="Black" Direction="320" Softness="1" ShadowDepth="10" Opacity="0.9" />
+            </Button.BitmapEffect>
+        </Button>
+        <Button x:Name="btnLeague" Foreground="#E3E361" Background="#0041A2" Content="  VIEW &#xa;TABLES" HorizontalAlignment="Stretch" Margin="5,5,5,5" VerticalAlignment="Stretch" Grid.Row="1" Grid.Column="2" FontSize="30" FontWeight="Bold">
+            <Button.BitmapEffect>
+                <DropShadowBitmapEffect Color="Black" Direction="320" Softness="1" ShadowDepth="10" Opacity="0.9" />
+            </Button.BitmapEffect>
+        </Button>
     </Grid>
 </UserControl>
